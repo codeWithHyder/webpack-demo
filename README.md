@@ -72,7 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> - [Live Demo Link](https://anita00001.github.io/webpack-demo/)
+> - [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +92,7 @@
 
 > Clone this repository to your desired folder:<br>
 > - <code>cd your-folder</code><br>
-> - <code>git clone https://github.com/anita00001/webpack-demo</code>
+> - <code>git clone </code>
 
 ### Install
 
@@ -117,10 +117,10 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-> 👤 **Anita Sharma**
-> - GitHub: [@anita00001](https://github.com/anita00001)
-> - Twitter: [@anitaa_sharmaa](https://twitter.com/anitaa_sharmaa)
-> - LinkedIn: [anitaa-sharmaa](https://www.linkedin.com/in/anitaa-sharmaa/)
+> 👤 **Ghulam Hyder Dar**
+- GitHub: [@CodeWithHyder](https://github.com/codeWithHyder)
+- Twitter: [@hyder](https://twitter.com/@hyder3512)
+- LinkedIn: [Hyder](https://linkedin.com/in/https://www.linkedin.com/in/ghulam-hyder-dar-165653206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb%2FezSQOCSmG9eV79rGAzQQ%3D%3D)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
